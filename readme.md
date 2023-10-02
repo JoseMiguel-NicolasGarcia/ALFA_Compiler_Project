@@ -56,4 +56,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to modify and expand this README to suit the specific details of your ALFA Compiler project.
