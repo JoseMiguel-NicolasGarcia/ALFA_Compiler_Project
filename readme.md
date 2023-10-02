@@ -7,8 +7,6 @@ The ALFA Compiler is a project that translates programs written in the ALFA prog
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -31,7 +29,7 @@ To use the ALFA Compiler, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/alfa-compiler.git
+   git clone https://github.com/JoseMiguel-NicolasGarcia/ALFA_Compiler_Project.git
    ```
 
 2. Navigate to the project directory:
@@ -50,27 +48,6 @@ To use the ALFA Compiler, follow these steps:
    ```
 
 5. You will now have the NASM assembly code in the `output.asm` file, which can be further processed and executed.
-
-## Installation
-
-To install the ALFA Compiler, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/alfa-compiler.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd alfa-compiler
-   ```
-
-3. Build the compiler:
-   ```bash
-   make install
-   ```
-
-4. The ALFA Compiler will be installed on your system and available for use.
 
 
 ## License
